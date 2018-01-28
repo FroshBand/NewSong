@@ -15,7 +15,7 @@ Prepare to do it over again\
 *R:* And the one | after that will be mine\
 *G:* And we'll be\
 *R:* Stronger than we ever\
-*B:* Thought that we could be\
+*B:* Thought that we could be
 *****
 
 **C**\
@@ -24,7 +24,7 @@ It shall not cause you harm\
 Disappear the fear that was here (was here)\
 Monsters all dissolve\
 When you stand and shine a light\
-Nothing scares them like a lack of fear\
+Nothing scares them like a lack of fear
 *****
 
 **V2**
@@ -45,4 +45,4 @@ Prepare to do it over again\
 *G:* And the one after that will be mine\
 *R:* And we will be\
 *G:* Stronger than we ever\
-*B:* Thought that we could be\
+*B:* Thought that we could be
