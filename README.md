@@ -1,3 +1,3 @@
 # NewSong
-Frosh Band's Second Pop Song\
-Written Winter of 2017
+Frosh Band's second pop song\
+Written winter of 2017
